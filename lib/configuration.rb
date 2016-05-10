@@ -1,0 +1,8 @@
+module Configuration
+  CUBE_SIDE_LENGTH = 4
+  SERIAL_FILE = '/dev/ttyUSB0'
+  INIT_DELAY = 2
+  BAUD_RATE = 9600
+  BEAT_SENSITIVITY = 300
+  SAMPLING_FREQUENCY = 44100
+end
